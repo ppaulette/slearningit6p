@@ -1,1 +1,13 @@
 This is demo.txt
+I am writing in the terminal using vim
+I don't know how to save and get out from vim
+please help!
+save
+me please
+
+Now I know how to get out from vim editor
+first --> type :w to save
+Then --> type :q to exit
+
+Cheers
+
