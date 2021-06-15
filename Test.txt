@@ -1,0 +1,4 @@
+Today is 6/19/2021 and I am learning about Amend commit
+First, I purposefully make a typpo mistake
+Second, I correct my "typpo" mistake to "typo"
+Why it's still in stage.
