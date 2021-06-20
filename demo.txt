@@ -11,3 +11,5 @@ Then --> type :q to exit
 
 Cheers
 
+06/2020 - I am using Git diff
+06/2020 - I am still using Git diff
